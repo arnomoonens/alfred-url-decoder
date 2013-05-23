@@ -55,7 +55,7 @@
 				<key>keyword</key>
 				<string>urld</string>
 				<key>subtext</key>
-				<string>place your url with % and shit</string>
+				<string>Place your encoded url</string>
 				<key>text</key>
 				<string>URL Decoder</string>
 				<key>withspace</key>
