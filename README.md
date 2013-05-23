@@ -10,5 +10,5 @@ urld http%3a%2f%2fwww.my-website.com%2fsubmap
 ```
 is
 ```
-http%3a%2f%2fwww.my-website.com%2fsubmap
+http://www.my-website.com/submap
 ```
